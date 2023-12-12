@@ -1,0 +1,1463 @@
+.rectangle {
+   position: absolute;
+   width: 0.1%;
+   top: 0px;
+   right: 37.4%;
+   left: 62.5%;
+   background-color: var(--color-gainsboro);
+   height: 5395.38px;
+}
+.rectangle1 {
+   position: absolute;
+   width: 100%;
+   top: 0px;
+   right: 0%;
+   left: 0%;
+   height: 5395px;
+}
+.rectangle2 {
+   position: absolute;
+   width: 103.28%;
+   top: 90px;
+   right: -3.28%;
+   left: 0%;
+   background-color: var(--color-gainsboro);
+   height: 1px;
+}
+.about-us {
+   position: absolute;
+   top: 25.05px;
+   left: calc(50% - 61px);
+   letter-spacing: 1.2px;
+   line-height: 36px;
+   display: inline-block;
+   width: 122px;
+}
+.rectangle3 {
+   position: absolute;
+   width: 103.28%;
+   top: 67.05px;
+   right: -3.28%;
+   left: 0%;
+   height: 23px;
+}
+.frame4 {
+   position: absolute;
+   width: 100%;
+   top: 0px;
+   right: 0%;
+   left: 0%;
+   height: 90px;
+}
+.image {
+   position: absolute;
+   width: 100%;
+   top: 0.05px;
+   right: 0%;
+   left: 0%;
+   height: 809px;
+}
+.icon {
+   position: absolute;
+   top: 14.05px;
+   left: -7px;
+   width: 580px;
+   height: 809px;
+   object-fit: cover;
+}
+.image1 {
+   position: absolute;
+   width: 100%;
+   top: 3159.05px;
+   right: 0%;
+   left: 0%;
+   height: 346px;
+}
+.icon1 {
+   position: absolute;
+   top: 3168.05px;
+   left: 3px;
+   width: 580px;
+   height: 346px;
+   object-fit: cover;
+}
+.do-i-have {
+   position: absolute;
+   width: 63.97%;
+   top: -0.58px;
+   left: 0%;
+   letter-spacing: 0.15px;
+   line-height: 28.5px;
+   display: inline-block;
+}
+.nope-my-meat-eating {
+   position: absolute;
+   width: 99.14%;
+   top: 33.42px;
+   left: 0%;
+   letter-spacing: 0.15px;
+   line-height: 28.5px;
+   display: inline-block;
+}
+.frame6 {
+   position: absolute;
+   width: 100%;
+   top: 1410.05px;
+   right: -3.1%;
+   left: 3.1%;
+   height: 197px;
+}
+.frame7 {
+   position: absolute;
+   width: 100%;
+   top: 1756.05px;
+   right: 0%;
+   left: 0%;
+   height: 116px;
+}
+.you-betcha-follow {
+   position: absolute;
+   width: 44.76%;
+   top: -3.45px;
+   left: 0%;
+   letter-spacing: 0.15px;
+   line-height: 28.5px;
+   display: inline-block;
+}
+.div {
+   position: absolute;
+   width: 1.46%;
+   top: -3.45px;
+   left: 61.83%;
+   letter-spacing: 0.15px;
+   line-height: 28.5px;
+   display: inline-block;
+}
+.or {
+   position: absolute;
+   width: 5.62%;
+   top: -3.45px;
+   left: 78.7%;
+   letter-spacing: 0.15px;
+   line-height: 28.5px;
+   display: inline-block;
+}
+.facebook {
+   position: absolute;
+   width: 15.41%;
+   top: -4.45px;
+   left: 63.29%;
+   letter-spacing: 0.15px;
+   line-height: 28.5px;
+   color: var(--color-lightseagreen);
+   display: inline-block;
+}
+.pinterest {
+   position: absolute;
+   width: 15.82%;
+   top: -4.45px;
+   left: 84.32%;
+   letter-spacing: 0.15px;
+   line-height: 28.5px;
+   color: var(--color-lightseagreen);
+   display: inline-block;
+}
+.instagram {
+   position: absolute;
+   width: 16.86%;
+   top: -4.45px;
+   left: 44.76%;
+   letter-spacing: 0.15px;
+   line-height: 28.5px;
+   color: var(--color-lightseagreen);
+   display: inline-block;
+}
+.frame9 {
+   position: absolute;
+   width: 82.82%;
+   top: 33px;
+   right: 17.18%;
+   left: 0%;
+   height: 20px;
+}
+.are-you-on {
+   position: absolute;
+   width: 33.79%;
+   top: -0.45px;
+   left: 0%;
+   letter-spacing: 0.15px;
+   line-height: 28.5px;
+   display: inline-block;
+}
+.frame8 {
+   position: absolute;
+   width: 100%;
+   top: 2644.05px;
+   right: -0.52%;
+   left: 0.52%;
+   height: 58px;
+}
+.where-do-you {
+   position: absolute;
+   width: 38.62%;
+   top: 0.17px;
+   left: 0%;
+   letter-spacing: 0.15px;
+   line-height: 28.5px;
+   display: inline-block;
+}
+.lincoln-park {
+   position: absolute;
+   width: 17.26%;
+   top: -3.83px;
+   left: 66.58%;
+   letter-spacing: 0.15px;
+   line-height: 28.5px;
+   color: var(--color-lightseagreen);
+   display: inline-block;
+}
+.logan-square {
+   position: absolute;
+   width: 98.48%;
+   top: 0.17px;
+   left: 0%;
+   letter-spacing: 0.15px;
+   line-height: 28.5px;
+   color: var(--color-lightseagreen);
+   display: inline-block;
+}
+.i-live-in {
+   position: absolute;
+   width: 93.6%;
+   top: -27.83px;
+   left: 0%;
+   letter-spacing: 0.15px;
+   line-height: 28.5px;
+   display: inline-block;
+}
+.markets-but-because {
+   position: absolute;
+   width: 100.05%;
+   top: 30.17px;
+   left: 0%;
+   letter-spacing: 0.15px;
+   line-height: 28.5px;
+   display: inline-block;
+}
+.and {
+   position: absolute;
+   width: 6.45%;
+   top: -3.83px;
+   left: 83.67%;
+   letter-spacing: 0.15px;
+   line-height: 28.5px;
+   display: inline-block;
+}
+.frame11 {
+   position: absolute;
+   width: 98.91%;
+   top: 61px;
+   right: 1.09%;
+   left: 0%;
+   height: 49px;
+}
+.frame10 {
+   position: absolute;
+   width: 100%;
+   top: 2753.05px;
+   right: 0.52%;
+   left: -0.52%;
+   height: 171px;
+}
+.whats-your-favorite {
+   position: absolute;
+   width: 35.52%;
+   top: -0.2px;
+   left: 0%;
+   letter-spacing: 0.15px;
+   line-height: 28.5px;
+   display: inline-block;
+}
+.peach-cobbler {
+   position: absolute;
+   width: 19.85%;
+   top: -4.2px;
+   left: 51.93%;
+   letter-spacing: 0.15px;
+   line-height: 28.5px;
+   color: var(--color-lightseagreen);
+   display: inline-block;
+}
+.peach-salsa {
+   position: absolute;
+   width: 16.3%;
+   top: -4.2px;
+   left: 75.85%;
+   letter-spacing: 0.15px;
+   line-height: 28.5px;
+   color: var(--color-lightseagreen);
+   display: inline-block;
+}
+.or1 {
+   position: absolute;
+   width: 4.25%;
+   top: -4.2px;
+   left: 71.78%;
+   letter-spacing: 0.15px;
+   line-height: 28.5px;
+   display: inline-block;
+}
+.juicy-summer-peaches {
+   position: absolute;
+   width: 99.96%;
+   top: -28.2px;
+   left: 0%;
+   letter-spacing: 0.15px;
+   line-height: 28.5px;
+   display: inline-block;
+}
+.div1 {
+   position: absolute;
+   width: 1.24%;
+   top: -4.2px;
+   left: 92.16%;
+   letter-spacing: 0.15px;
+   line-height: 28.5px;
+   display: inline-block;
+}
+.frame13 {
+   position: absolute;
+   width: 97.28%;
+   top: 61px;
+   right: 2.72%;
+   left: 0%;
+   height: 20px;
+}
+.sweet-corn {
+   position: absolute;
+   width: 98.97%;
+   top: 60.8px;
+   left: 0%;
+   letter-spacing: 0.15px;
+   line-height: 28.5px;
+   color: var(--color-lightseagreen);
+   display: inline-block;
+}
+.is-a-close {
+   position: absolute;
+   width: 21.9%;
+   top: 85.8px;
+   left: 7.41%;
+   letter-spacing: 0.15px;
+   line-height: 28.5px;
+   display: inline-block;
+}
+.frame12 {
+   position: absolute;
+   width: 100%;
+   top: 2924.05px;
+   right: -0.52%;
+   left: 0.52%;
+   height: 115px;
+}
+.the-team {
+   position: absolute;
+   width: 15.86%;
+   top: 3114.05px;
+   left: 0%;
+   font-size: var(--font-size-lg);
+   letter-spacing: 0.15px;
+   line-height: 26px;
+   display: inline-block;
+}
+.creator-recipe {
+   position: absolute;
+   width: 37.59%;
+   top: 0.05px;
+   left: 24.66%;
+   letter-spacing: 0.15px;
+   line-height: 28.5px;
+   display: inline-block;
+}
+.jeanine-donofrio {
+   position: absolute;
+   width: 24.66%;
+   top: 0.05px;
+   left: 0%;
+   letter-spacing: 0.15px;
+   line-height: 28.5px;
+   display: inline-block;
+}
+.frame14 {
+   position: absolute;
+   width: 100%;
+   top: 3538px;
+   right: 0%;
+   left: 0%;
+   height: 29px;
+}
+.the-love {
+   position: absolute;
+   width: 46.23%;
+   top: -4.33px;
+   left: 17.38%;
+   letter-spacing: 0.15px;
+   line-height: 28.5px;
+   color: var(--color-lightseagreen);
+   display: inline-block;
+}
+.jeanine-donofrio-is {
+   position: absolute;
+   width: 99.96%;
+   top: -28.33px;
+   left: 0%;
+   letter-spacing: 0.15px;
+   line-height: 28.5px;
+   display: inline-block;
+}
+.and1 {
+   position: absolute;
+   width: 5.73%;
+   top: -3.33px;
+   left: 64.4%;
+   letter-spacing: 0.15px;
+   line-height: 28.5px;
+   display: inline-block;
+}
+.frame16 {
+   position: absolute;
+   width: 87.28%;
+   top: 32px;
+   right: 12.72%;
+   left: 0%;
+   height: 20px;
+}
+.love-lemons {
+   position: absolute;
+   width: 98.23%;
+   top: -4.33px;
+   left: -0.16%;
+   letter-spacing: 0.15px;
+   line-height: 28.5px;
+   display: inline-block;
+}
+.div2 {
+   position: absolute;
+   width: 1.47%;
+   top: -3.33px;
+   left: 98.56%;
+   letter-spacing: 0.15px;
+   line-height: 28.5px;
+   color: var(--color-black);
+   display: inline-block;
+}
+.frame17 {
+   position: absolute;
+   width: 35.11%;
+   top: 32px;
+   right: 2.94%;
+   left: 61.95%;
+   height: 20px;
+   color: var(--color-lightseagreen);
+}
+.her-passion-is {
+   position: absolute;
+   width: 92.76%;
+   top: 60.67px;
+   left: 0%;
+   font-size: 13px;
+   letter-spacing: 0.15px;
+   line-height: 28.5px;
+   display: inline-block;
+}
+.frame15 {
+   position: absolute;
+   width: 100%;
+   top: 3591.38px;
+   right: 0%;
+   left: 0%;
+   height: 113px;
+}
+.the-new-york {
+   position: absolute;
+   width: 28.15%;
+   top: -4.7px;
+   left: 71.89%;
+   letter-spacing: 0.15px;
+   line-height: 28.5px;
+   display: inline-block;
+}
+.and2 {
+   position: absolute;
+   width: 6.63%;
+   top: 23.3px;
+   left: 19.36%;
+   letter-spacing: 0.15px;
+   line-height: 28.5px;
+   display: inline-block;
+}
+.people-oprah {
+   position: absolute;
+   width: 19.36%;
+   top: 23.3px;
+   left: 0%;
+   letter-spacing: 0.15px;
+   line-height: 28.5px;
+   display: inline-block;
+}
+.jeanine-has-also {
+   position: absolute;
+   width: 96.27%;
+   top: -27.7px;
+   left: 0%;
+   font-size: var(--font-size-3xs);
+   letter-spacing: 0.15px;
+   line-height: 28.5px;
+   display: inline-block;
+}
+.bon-apptit {
+   position: absolute;
+   width: 16.85%;
+   top: 23.3px;
+   left: 25.99%;
+   letter-spacing: 0.15px;
+   line-height: 28.5px;
+   display: inline-block;
+}
+.frame19 {
+   position: absolute;
+   width: 96.17%;
+   top: 32px;
+   right: 3.83%;
+   left: 0%;
+   height: 47px;
+}
+.and-more {
+   position: absolute;
+   width: 13.45%;
+   top: 55.3px;
+   left: 41.21%;
+   letter-spacing: 0.15px;
+   line-height: 28.5px;
+   display: inline-block;
+}
+.frame18 {
+   position: absolute;
+   width: 100%;
+   top: 3728.75px;
+   right: 0%;
+   left: 0%;
+   height: 84px;
+}
+.senior-editor {
+   position: absolute;
+   width: 68.78%;
+   top: -4.45px;
+   left: 31.24%;
+   letter-spacing: 0.15px;
+   line-height: 28.5px;
+   display: inline-block;
+}
+.phoebe-moore {
+   position: absolute;
+   width: 31.24%;
+   top: -4.45px;
+   left: 0%;
+   letter-spacing: 0.15px;
+   line-height: 28.5px;
+   display: inline-block;
+}
+.phoebeelmoore {
+   position: absolute;
+   width: 35.18%;
+   top: 24.55px;
+   left: 0%;
+   letter-spacing: 0.15px;
+   line-height: 28.5px;
+   color: var(--color-lightseagreen);
+   display: inline-block;
+}
+.frame20 {
+   position: absolute;
+   width: 65.68%;
+   top: 4220.5px;
+   right: 34.32%;
+   left: 0%;
+   height: 49px;
+}
+.phoebe-moore-is {
+   position: absolute;
+   width: 98.45%;
+   top: 4303.05px;
+   left: 0%;
+   letter-spacing: 0.15px;
+   line-height: 28.5px;
+   display: inline-block;
+}
+.social-media-manager {
+   position: absolute;
+   width: 59.75%;
+   top: -4.58px;
+   left: 40.17%;
+   letter-spacing: 0.15px;
+   line-height: 28.5px;
+   display: inline-block;
+}
+.sophia-simota {
+   position: absolute;
+   width: 40.17%;
+   top: -4.58px;
+   left: 0%;
+   letter-spacing: 0.15px;
+   line-height: 28.5px;
+   display: inline-block;
+}
+.kilnandkitchen {
+   position: absolute;
+   width: 45.57%;
+   top: 24.42px;
+   left: 0%;
+   letter-spacing: 0.15px;
+   line-height: 28.5px;
+   color: var(--color-lightseagreen);
+   display: inline-block;
+}
+.frame21 {
+   position: absolute;
+   width: 51.08%;
+   top: 4930.63px;
+   right: 48.92%;
+   left: 0%;
+   height: 49px;
+}
+.sophia-simota-is {
+   position: absolute;
+   width: 98.97%;
+   top: 5013.05px;
+   left: 0%;
+   letter-spacing: 0.15px;
+   line-height: 28.5px;
+   display: inline-block;
+}
+.image2 {
+   position: absolute;
+   width: 100%;
+   top: 3837.05px;
+   right: 0%;
+   left: 0%;
+   height: 346px;
+}
+.icon2 {
+   position: absolute;
+   top: 3844.05px;
+   left: 0px;
+   width: 580px;
+   height: 346px;
+   object-fit: cover;
+}
+.frequently-asked-questions {
+   position: absolute;
+   width: 45.34%;
+   top: 1353.05px;
+   left: 35.17%;
+   font-size: var(--font-size-lg);
+   letter-spacing: 0.15px;
+   line-height: 26px;
+   display: inline-block;
+}
+.icon3 {
+   position: absolute;
+   top: 1832.05px;
+   left: 3px;
+   width: 519px;
+   height: 653px;
+   object-fit: cover;
+}
+.icon4 {
+   position: absolute;
+   top: 4537.05px;
+   left: 0px;
+   width: 580px;
+   height: 346px;
+   object-fit: cover;
+}
+.frame5 {
+   position: absolute;
+   width: 100%;
+   top: 110px;
+   right: 0%;
+   left: 0%;
+   height: 5205px;
+   text-align: left;
+   font-size: var(--font-size-mini);
+}
+.frame3 {
+   position: absolute;
+   width: 96.67%;
+   top: 0px;
+   right: 1.67%;
+   left: 1.67%;
+   height: 5395.38px;
+}
+.frame2 {
+   position: absolute;
+   width: 62.5%;
+   top: 0.05px;
+   right: 37.71%;
+   left: -0.21%;
+   height: 5395px;
+}
+.rectangle4 {
+   position: absolute;
+   width: 0.1%;
+   top: 0px;
+   right: 37.6%;
+   left: 62.29%;
+   background-color: var(--color-gainsboro);
+   height: 1181.5px;
+}
+.rectangle5 {
+   position: absolute;
+   width: 100%;
+   top: 0px;
+   right: 0%;
+   left: 0%;
+   height: 1182px;
+}
+.rectangle6 {
+   position: absolute;
+   width: 100%;
+   top: 90px;
+   right: 0%;
+   left: 0%;
+   background-color: var(--color-gainsboro);
+   height: 1px;
+}
+.breakfast {
+   position: absolute;
+   top: -0.95px;
+   left: calc(50% - 119px);
+   letter-spacing: 1.35px;
+   line-height: 16.2px;
+   text-transform: uppercase;
+   display: inline-block;
+   width: 72px;
+}
+.main-dish {
+   position: absolute;
+   top: -0.95px;
+   left: calc(50% - 23px);
+   letter-spacing: 1.35px;
+   line-height: 16.2px;
+   text-transform: uppercase;
+   display: inline-block;
+   width: 65px;
+}
+.dessert {
+   position: absolute;
+   top: -0.95px;
+   left: calc(50% + 66px);
+   letter-spacing: 1.35px;
+   line-height: 16.2px;
+   text-transform: uppercase;
+   display: inline-block;
+   width: 53px;
+}
+.div3 {
+   position: absolute;
+   top: 15.05px;
+   left: calc(50% - 32px);
+   letter-spacing: 1.35px;
+   line-height: 16.2px;
+   text-transform: uppercase;
+   display: inline-block;
+   width: 24px;
+}
+.div4 {
+   position: absolute;
+   top: -0.95px;
+   left: calc(50% + 42px);
+   letter-spacing: 1.35px;
+   line-height: 16.2px;
+   text-transform: uppercase;
+   display: inline-block;
+   width: 24px;
+}
+.gluten-free {
+   position: absolute;
+   top: 15.05px;
+   left: calc(50% - 8px);
+   letter-spacing: 1.35px;
+   line-height: 16.2px;
+   text-transform: uppercase;
+   display: inline-block;
+   width: 82px;
+}
+.div5 {
+   position: absolute;
+   top: -0.95px;
+   left: calc(50% - 47px);
+   letter-spacing: 1.35px;
+   line-height: 16.2px;
+   text-transform: uppercase;
+   display: inline-block;
+   width: 24px;
+}
+.vegan {
+   position: absolute;
+   top: 15.05px;
+   left: calc(50% - 74px);
+   letter-spacing: 1.35px;
+   line-height: 16.2px;
+   text-transform: uppercase;
+   display: inline-block;
+   width: 42px;
+}
+.frame25 {
+   position: absolute;
+   width: 100%;
+   top: 89px;
+   right: 0%;
+   left: 0%;
+   height: 32px;
+}
+.image-icon {
+   position: absolute;
+   width: 100%;
+   top: 155.05px;
+   right: 0%;
+   left: 0%;
+   max-width: 100%;
+   overflow: hidden;
+   height: 44px;
+   object-fit: cover;
+}
+.subscribe-1-icon {
+   position: absolute;
+   top: -2.95px;
+   left: 26px;
+   width: 328px;
+   height: 92px;
+   object-fit: cover;
+}
+.frame24 {
+   position: absolute;
+   width: 100%;
+   top: 90px;
+   right: 0%;
+   left: 0%;
+   height: 199px;
+}
+.we-love-to {
+   position: absolute;
+   top: 238.05px;
+   left: calc(50% - 117px);
+   letter-spacing: 0.55px;
+   line-height: 22px;
+   display: inline-block;
+   width: 234px;
+}
+.hello-were-lauren {
+   position: absolute;
+   top: 206.05px;
+   left: calc(50% - 118px);
+   font-size: var(--font-size-sm);
+   letter-spacing: 0.7px;
+   line-height: 28px;
+   display: inline-block;
+   width: 236px;
+}
+.untitled-design-4-1 {
+   position: absolute;
+   top: 0.05px;
+   left: 17px;
+   width: 225px;
+   height: 191px;
+   object-fit: cover;
+}
+.frame27 {
+   position: absolute;
+   width: 100%;
+   top: 36px;
+   right: 0%;
+   left: 0%;
+   height: 345px;
+}
+.image-icon1 {
+   position: absolute;
+   width: 100%;
+   top: 381.05px;
+   right: 0%;
+   left: 0%;
+   max-width: 100%;
+   overflow: hidden;
+   height: 44px;
+   object-fit: cover;
+}
+.frame26 {
+   position: absolute;
+   width: 69.44%;
+   top: 289px;
+   right: 15.28%;
+   left: 15.28%;
+   height: 425px;
+   font-size: 11px;
+}
+.image-icon2 {
+   position: absolute;
+   width: 50%;
+   top: 0.05px;
+   right: 25%;
+   left: 25%;
+   max-width: 100%;
+   overflow: hidden;
+   height: 23px;
+   object-fit: cover;
+}
+.pinterest1 {
+   position: absolute;
+   width: 15.56%;
+   top: -0.95px;
+   left: -1641.67%;
+   line-height: 16px;
+   display: inline-block;
+}
+.facebook1 {
+   position: absolute;
+   width: 17.22%;
+   top: -0.95px;
+   left: -1591.67%;
+   line-height: 16px;
+   display: inline-block;
+}
+.instagram1 {
+   position: absolute;
+   width: 17.78%;
+   top: -0.95px;
+   left: -1666.67%;
+   line-height: 16px;
+   display: inline-block;
+}
+.twitter {
+   position: absolute;
+   width: 12.78%;
+   top: -0.95px;
+   left: -1616.67%;
+   line-height: 16px;
+   display: inline-block;
+}
+.frame28 {
+   position: absolute;
+   width: 100%;
+   top: 776px;
+   right: 0%;
+   left: 0%;
+   height: 22.5px;
+   text-align: left;
+   font-size: var(--font-size-sm);
+   color: var(--color-midnightblue);
+}
+.a-food-blog {
+   position: absolute;
+   top: 18px;
+   left: calc(50% - 120px);
+   letter-spacing: 3.23px;
+   line-height: 27.2px;
+   display: inline-block;
+   width: 240px;
+}
+.frame29 {
+   position: absolute;
+   width: 100%;
+   top: 0.05px;
+   right: 0%;
+   left: 0%;
+   height: 90px;
+   font-size: 17px;
+}
+.untitled-design-3-2 {
+   position: absolute;
+   top: 837.05px;
+   left: 63px;
+   width: 261px;
+   height: 331px;
+   object-fit: cover;
+}
+.frame23 {
+   position: absolute;
+   width: 99.72%;
+   top: -0.05px;
+   right: 0%;
+   left: 0.28%;
+   height: 1145.5px;
+}
+.frame22 {
+   position: absolute;
+   width: 37.6%;
+   top: 0.05px;
+   right: 0%;
+   left: 62.4%;
+   height: 1182px;
+   font-size: var(--font-size-4xs);
+}
+.rectangle8 {
+   position: absolute;
+   width: 100%;
+   top: 5394.38px;
+   right: 0%;
+   left: 0%;
+   background-color: var(--color-gainsboro);
+   height: 1px;
+}
+.rectangle9 {
+   position: absolute;
+   width: 100%;
+   top: 5395.05px;
+   right: 0%;
+   left: 0%;
+   height: 1px;
+}
+.frame1 {
+   position: absolute;
+   width: 80%;
+   top: 271.95px;
+   right: 10%;
+   left: 10%;
+   height: 5396.38px;
+   font-size: 24px;
+}
+.image-icon3 {
+   position: absolute;
+   width: 100%;
+   top: 5738px;
+   right: 0%;
+   left: 0%;
+   max-width: 100%;
+   overflow: hidden;
+   height: 15px;
+   object-fit: cover;
+}
+.rectangle10 {
+   position: absolute;
+   top: -125px;
+   left: 0px;
+   background-color: var(--color-lightgoldenrodyellow);
+   box-shadow: 0px 5px 6px rgba(0, 0, 0, 0.4);
+   width: 1200px;
+   height: 60px;
+}
+.image-icon4 {
+   position: absolute;
+   width: 4.58%;
+   top: calc(50% - 3320.5px);
+   right: 95%;
+   left: 0.42%;
+   border-radius: var(--br-8xs);
+   max-width: 100%;
+   overflow: hidden;
+   height: 60px;
+   object-fit: cover;
+}
+.image-icon5 {
+   position: absolute;
+   width: 4.58%;
+   top: calc(50% - 3320.5px);
+   right: 81.67%;
+   left: 13.75%;
+   border-radius: var(--br-8xs);
+   max-width: 100%;
+   overflow: hidden;
+   height: 60px;
+   object-fit: cover;
+}
+.image-icon6 {
+   position: absolute;
+   width: 4.58%;
+   top: calc(50% - 3320.5px);
+   right: 68.33%;
+   left: 27.08%;
+   border-radius: var(--br-8xs);
+   max-width: 100%;
+   overflow: hidden;
+   height: 60px;
+   object-fit: cover;
+}
+.image-icon7 {
+   position: absolute;
+   width: 4.58%;
+   top: calc(50% - 3320.5px);
+   right: 55%;
+   left: 40.42%;
+   border-radius: var(--br-8xs);
+   max-width: 100%;
+   overflow: hidden;
+   height: 60px;
+   object-fit: cover;
+}
+.image-icon8 {
+   position: absolute;
+   width: 4.58%;
+   top: calc(50% - 3320.5px);
+   right: 41.67%;
+   left: 53.75%;
+   border-radius: var(--br-8xs);
+   max-width: 100%;
+   overflow: hidden;
+   height: 60px;
+   object-fit: cover;
+}
+.image-icon9 {
+   position: absolute;
+   width: 4.58%;
+   top: calc(50% - 3320.5px);
+   right: 28.33%;
+   left: 67.08%;
+   border-radius: var(--br-8xs);
+   max-width: 100%;
+   overflow: hidden;
+   height: 60px;
+   object-fit: cover;
+}
+.image-icon10 {
+   position: absolute;
+   width: 4.58%;
+   top: calc(50% - 3320.5px);
+   right: 15%;
+   left: 80.42%;
+   border-radius: var(--br-8xs);
+   max-width: 100%;
+   overflow: hidden;
+   height: 60px;
+   object-fit: cover;
+}
+.image-icon11 {
+   position: absolute;
+   width: 4.58%;
+   top: calc(50% - 3320.5px);
+   right: 1.67%;
+   left: 93.75%;
+   border-radius: var(--br-8xs);
+   max-width: 100%;
+   overflow: hidden;
+   height: 60px;
+   object-fit: cover;
+}
+.image-icon12 {
+   position: absolute;
+   width: 4.58%;
+   top: calc(50% - 3320.5px);
+   right: -11.67%;
+   left: 107.08%;
+   border-radius: var(--br-8xs);
+   max-width: 100%;
+   overflow: hidden;
+   height: 60px;
+   object-fit: cover;
+}
+.image-icon13 {
+   position: absolute;
+   width: 4.58%;
+   top: calc(50% - 3320.5px);
+   right: -25%;
+   left: 120.42%;
+   border-radius: var(--br-8xs);
+   max-width: 100%;
+   overflow: hidden;
+   height: 60px;
+   object-fit: cover;
+}
+.rectangle11 {
+   position: absolute;
+   width: 2.67%;
+   top: calc(50% - 3306.5px);
+   right: 96.33%;
+   left: 1%;
+   background-color: var(--color-gray-100);
+   height: 32px;
+}
+.rectangle12 {
+   position: absolute;
+   top: -111px;
+   left: 12px;
+   width: 32px;
+   height: 32px;
+}
+.frame-icon {
+   position: absolute;
+   top: -107px;
+   left: calc(50% - 584px);
+   width: 24px;
+   height: 24px;
+   overflow: hidden;
+}
+.rectangle13 {
+   position: absolute;
+   width: 2.67%;
+   top: calc(50% - 3306.5px);
+   right: 1%;
+   left: 96.33%;
+   background-color: var(--color-gray-100);
+   height: 32px;
+}
+.rectangle14 {
+   position: absolute;
+   top: -111px;
+   left: 1156px;
+   width: 32px;
+   height: 32px;
+}
+.frame-icon1 {
+   position: absolute;
+   top: -107px;
+   left: calc(50% + 560px);
+   width: 24px;
+   height: 24px;
+   overflow: hidden;
+}
+.rectangle15 {
+   position: absolute;
+   width: 100%;
+   top: -80px;
+   right: 0%;
+   left: 0%;
+   height: 280px;
+}
+.rectangle16 {
+   position: absolute;
+   width: 100%;
+   top: -78px;
+   right: 0%;
+   left: 0%;
+   height: 52px;
+}
+.rectangle17 {
+   position: absolute;
+   width: 4.42%;
+   top: calc(50% - 3265.5px);
+   right: 94.92%;
+   left: 0.67%;
+   border-radius: 8px;
+   background-color: rgba(0, 0, 0, 0.05);
+   height: 36px;
+}
+.frame-icon2 {
+   position: absolute;
+   top: -62px;
+   left: calc(50% - 567px);
+   width: 20px;
+   height: 20px;
+   overflow: hidden;
+}
+.rectangle18 {
+   position: absolute;
+   width: 100%;
+   top: 1000px;
+   right: 0%;
+   left: 0%;
+   height: 64px;
+}
+.rectangle19 {
+   position: absolute;
+   top: 1006px;
+   left: 568px;
+   width: 52px;
+   height: 52px;
+}
+.frame-icon3 {
+   position: absolute;
+   top: 1016px;
+   left: calc(50% - 22px);
+   width: 32px;
+   height: 32px;
+   overflow: hidden;
+}
+.frame-icon4 {
+   position: absolute;
+   top: 1088px;
+   left: calc(50% + 548px);
+   width: 24px;
+   height: 24px;
+   overflow: hidden;
+}
+.untitled-design-3-1 {
+   position: absolute;
+   top: 6224px;
+   left: 0px;
+   width: 1513px;
+   height: 167px;
+   object-fit: cover;
+}
+.add-a-heading-1 {
+   position: absolute;
+   top: 88px;
+   left: 3px;
+   width: 1197px;
+   height: 202px;
+   object-fit: cover;
+}
+.rectangle20 {
+   position: absolute;
+   width: 100%;
+   top: 0px;
+   right: 0%;
+   left: 0%;
+   background-color: var(--color-lightgoldenrodyellow);
+   height: 32px;
+}
+.rectangle21 {
+   position: absolute;
+   top: 5px;
+   left: calc(50% + 28.5px);
+   background-color: var(--color-lightgoldenrodyellow);
+   border: 2px solid #767676;
+   box-sizing: border-box;
+   width: 108px;
+   height: 17px;
+}
+.home {
+   position: absolute;
+   top: 9px;
+   left: calc(50% - 435.5px);
+   letter-spacing: 3.1px;
+   line-height: 10px;
+   text-transform: uppercase;
+   display: inline-block;
+   width: 45px;
+}
+.about {
+   position: absolute;
+   top: 9px;
+   left: calc(50% - 340.5px);
+   letter-spacing: 3.1px;
+   line-height: 10px;
+   text-transform: uppercase;
+   display: inline-block;
+   width: 55px;
+}
+.privacy-policy {
+   position: absolute;
+   top: 9px;
+   left: calc(50% - 235.5px);
+   letter-spacing: 3.1px;
+   line-height: 10px;
+   text-transform: uppercase;
+   display: inline-block;
+   width: 131px;
+}
+.untitled-design-5-1 {
+   position: absolute;
+   top: -6px;
+   left: 862px;
+   width: 170px;
+   height: 50px;
+   object-fit: cover;
+}
+.frame31 {
+   position: absolute;
+   width: 100%;
+   top: 0px;
+   right: 0%;
+   left: 0%;
+   height: 32px;
+}
+.frame30 {
+   position: absolute;
+   width: 99.58%;
+   top: 47px;
+   right: 0%;
+   left: 0.42%;
+   height: 44px;
+}
+.rectangle22 {
+   position: absolute;
+   width: 100%;
+   top: 0px;
+   right: 0%;
+   left: 0%;
+   background-color: #ffa500;
+   height: 478px;
+}
+.image-icon14 {
+   position: absolute;
+   top: 40px;
+   left: calc(50% - 126px);
+   width: 252px;
+   height: 32px;
+   object-fit: cover;
+}
+.home1 {
+   position: absolute;
+   top: 0px;
+   left: calc(50% - 400px);
+   letter-spacing: 3.1px;
+   line-height: 15px;
+   text-transform: uppercase;
+   display: inline-block;
+   width: 45px;
+}
+.privacy-policy1 {
+   position: absolute;
+   top: 0px;
+   left: calc(50% + 253px);
+   letter-spacing: 3.1px;
+   line-height: 15px;
+   text-transform: uppercase;
+   display: inline-block;
+   width: 133px;
+}
+.frame34 {
+   position: absolute;
+   width: 100%;
+   top: 131.98px;
+   right: -0.75%;
+   left: 0.75%;
+   height: 21px;
+}
+.about1 {
+   position: absolute;
+   top: 131.98px;
+   left: calc(50% - 19px);
+   letter-spacing: 3.1px;
+   line-height: 15px;
+   text-transform: uppercase;
+   display: inline-block;
+   width: 55px;
+}
+.frame33 {
+   position: absolute;
+   width: 100%;
+   top: 94.02px;
+   right: 0%;
+   left: 0%;
+   height: 305px;
+}
+.copyright-2023 {
+   position: absolute;
+   top: 422px;
+   left: calc(50% - 179px);
+   font-size: 12px;
+   line-height: 15px;
+   display: inline-block;
+   width: 358px;
+}
+.frame32 {
+   position: absolute;
+   width: 100%;
+   top: 5753px;
+   right: 0%;
+   left: 0%;
+   height: 478px;
+   color: var(--color-lightgoldenrodyellow);
+}
+.frame {
+   position: relative;
+   background-color: var(--color-lightgoldenrodyellow);
+   width: 100%;
+   height: 6391px;
+   overflow: hidden;
+   text-align: center;
+   font-size: var(--font-size-3xs);
+   color: var(--color-black);
+   font-family: var(--font-roboto);
+}
+

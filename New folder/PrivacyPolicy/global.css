@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+    line-height: normal;
+ }
+ 
+ 
+ :root {
+    
+    /* fonts */
+    --font-roboto: Roboto;
+    
+    /* font sizes */
+    --font-size-3xs: 10px;
+    --font-size-sm: 14px;
+    --font-size-4xs: 9px;
+    --font-size-base: 16px;
+    --font-size-mini: 15px;
+    
+    /* Colors */
+    --color-lightgoldenrodyellow: #ddffdc;
+    --color-black: #000;
+    --color-gray-100: rgba(255, 255, 255, 0.8);
+    --color-gainsboro: #d9d9d9;
+    --color-midnightblue: #040340;
+    --color-lightseagreen: #34a9a7;
+    
+    /* Border radiuses */
+    --br-8xs: 5px;
+    
+ }
+ 

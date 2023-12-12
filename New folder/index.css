@@ -1,0 +1,2173 @@
+.rectangle {
+    position: absolute;
+    width: 0.1%;
+    top: 0px;
+    right: 37.4%;
+    left: 62.5%;
+    background-color: var(--color-gainsboro);
+    height: 1241.5px;
+ }
+ .rectangle1 {
+    position: absolute;
+    width: 100%;
+    top: 0px;
+    right: 0%;
+    left: 0%;
+    height: 1242px;
+ }
+ .rectangle2 {
+    position: absolute;
+    width: 103.28%;
+    top: 90px;
+    right: -3.28%;
+    left: 0%;
+    background-color: var(--color-gainsboro);
+    height: 1px;
+ }
+ .best-recipes {
+    position: absolute;
+    top: -0.95px;
+    left: calc(50% - 128px);
+    letter-spacing: 1px;
+    line-height: 30px;
+    display: inline-block;
+    width: 257px;
+ }
+ .rectangle3 {
+    position: absolute;
+    width: 100%;
+    top: 0px;
+    right: 0%;
+    left: 0%;
+    height: 60px;
+ }
+ .the-best-recipes {
+    position: absolute;
+    top: 5px;
+    left: calc(50% - 258.5px);
+    letter-spacing: 0.48px;
+    line-height: 20px;
+    display: inline-block;
+    width: 498px;
+ }
+ .frame5 {
+    position: absolute;
+    width: 103.28%;
+    top: 30.05px;
+    right: -3.28%;
+    left: 0%;
+    height: 60px;
+    font-size: var(--font-size-xs);
+ }
+ .untitled-design-1-1 {
+    position: absolute;
+    top: 120.05px;
+    left: 0px;
+    width: 550px;
+    height: 844px;
+    object-fit: cover;
+ }
+ .frame4 {
+    position: absolute;
+    width: 100%;
+    top: 0px;
+    right: 0%;
+    left: 0%;
+    height: 982.5px;
+ }
+ .at-fancyy-eats {
+    margin: 0;
+ }
+ .at-fancyy-eats-container {
+    position: absolute;
+    width: 99.48%;
+    top: 982.05px;
+    left: -0.52%;
+    font-size: var(--font-size-sm);
+    letter-spacing: 0.14px;
+    line-height: 26px;
+    text-align: left;
+    display: inline-block;
+ }
+ .frame3 {
+    position: absolute;
+    width: 96.67%;
+    top: -0.05px;
+    right: 3.33%;
+    left: 0%;
+    height: 1241.5px;
+ }
+ .frame2 {
+    position: absolute;
+    width: 62.5%;
+    top: 0.05px;
+    right: 37.5%;
+    left: 0%;
+    height: 1242px;
+    font-size: var(--font-size-xl);
+ }
+ .rectangle4 {
+    position: absolute;
+    width: 0.1%;
+    top: 0px;
+    right: 37.6%;
+    left: 62.29%;
+    background-color: var(--color-gainsboro);
+    height: 1181.5px;
+ }
+ .rectangle5 {
+    position: absolute;
+    width: 100%;
+    top: 0px;
+    right: 0%;
+    left: 0%;
+    height: 1182px;
+ }
+ .rectangle6 {
+    position: absolute;
+    width: 100%;
+    top: 90px;
+    right: 0%;
+    left: 0%;
+    background-color: var(--color-gainsboro);
+    height: 1px;
+ }
+ .div {
+    position: absolute;
+    top: -0.95px;
+    left: calc(50% - 47px);
+    letter-spacing: 1.35px;
+    line-height: 16.2px;
+    text-transform: uppercase;
+    display: inline-block;
+    width: 24px;
+ }
+ .div1 {
+    position: absolute;
+    top: -0.95px;
+    left: calc(50% + 42px);
+    letter-spacing: 1.35px;
+    line-height: 16.2px;
+    text-transform: uppercase;
+    display: inline-block;
+    width: 24px;
+ }
+ .vegan {
+    position: absolute;
+    top: 15.05px;
+    left: calc(50% - 74px);
+    letter-spacing: 1.35px;
+    line-height: 16.2px;
+    text-transform: uppercase;
+    display: inline-block;
+    width: 42px;
+ }
+ .gluten-free {
+    position: absolute;
+    top: 15.05px;
+    left: calc(50% - 8px);
+    letter-spacing: 1.35px;
+    line-height: 16.2px;
+    text-transform: uppercase;
+    display: inline-block;
+    width: 82px;
+ }
+ .breakfast {
+    position: absolute;
+    top: -0.95px;
+    left: calc(50% - 119px);
+    letter-spacing: 1.35px;
+    line-height: 16.2px;
+    text-transform: uppercase;
+    display: inline-block;
+    width: 72px;
+ }
+ .dessert {
+    position: absolute;
+    top: -0.95px;
+    left: calc(50% + 66px);
+    letter-spacing: 1.35px;
+    line-height: 16.2px;
+    text-transform: uppercase;
+    display: inline-block;
+    width: 53px;
+ }
+ .div2 {
+    position: absolute;
+    top: 15.05px;
+    left: calc(50% - 32px);
+    letter-spacing: 1.35px;
+    line-height: 16.2px;
+    text-transform: uppercase;
+    display: inline-block;
+    width: 24px;
+ }
+ .main-dish {
+    position: absolute;
+    top: -0.95px;
+    left: calc(50% - 23px);
+    letter-spacing: 1.35px;
+    line-height: 16.2px;
+    text-transform: uppercase;
+    display: inline-block;
+    width: 65px;
+ }
+ .frame9 {
+    position: absolute;
+    width: 100%;
+    top: 89px;
+    right: 0%;
+    left: 0%;
+    height: 32px;
+ }
+ .all-recipes {
+    position: absolute;
+    top: 137.05px;
+    left: calc(50% - 58px);
+    font-size: var(--font-size-smi);
+    letter-spacing: 1.6px;
+    line-height: 16px;
+    text-transform: uppercase;
+    display: inline-block;
+    width: 116px;
+ }
+ .image-icon {
+    position: absolute;
+    width: 100%;
+    top: 155.05px;
+    right: 0%;
+    left: 0%;
+    max-width: 100%;
+    overflow: hidden;
+    height: 44px;
+    object-fit: cover;
+ }
+ .subscribe-1-icon {
+    position: absolute;
+    top: -4.95px;
+    left: 26px;
+    width: 328px;
+    height: 92px;
+    object-fit: cover;
+ }
+ .frame8 {
+    position: absolute;
+    width: 100%;
+    top: 90px;
+    right: 0%;
+    left: 0%;
+    height: 199px;
+    font-size: var(--font-size-4xs);
+ }
+ .hello-were-lauren {
+    position: absolute;
+    top: 206.05px;
+    left: calc(50% - 118px);
+    letter-spacing: 0.7px;
+    line-height: 28px;
+    display: inline-block;
+    width: 236px;
+ }
+ .we-love-to {
+    position: absolute;
+    top: 238.05px;
+    left: calc(50% - 117px);
+    font-size: 11px;
+    letter-spacing: 0.55px;
+    line-height: 22px;
+    display: inline-block;
+    width: 234px;
+ }
+ .untitled-design-4-1 {
+    position: absolute;
+    top: 11.05px;
+    left: 12px;
+    width: 225px;
+    height: 191px;
+    object-fit: cover;
+ }
+ .frame11 {
+    position: absolute;
+    width: 100%;
+    top: 36px;
+    right: 0%;
+    left: 0%;
+    height: 345px;
+ }
+ .image-icon1 {
+    position: absolute;
+    width: 100%;
+    top: 381.05px;
+    right: 0%;
+    left: 0%;
+    max-width: 100%;
+    overflow: hidden;
+    height: 44px;
+    object-fit: cover;
+ }
+ .frame10 {
+    position: absolute;
+    width: 69.44%;
+    top: 289px;
+    right: 15.28%;
+    left: 15.28%;
+    height: 425px;
+ }
+ .image-icon2 {
+    position: absolute;
+    width: 50%;
+    top: 0.05px;
+    right: 25%;
+    left: 25%;
+    max-width: 100%;
+    overflow: hidden;
+    height: 23px;
+    object-fit: cover;
+ }
+ .instagram {
+    position: absolute;
+    width: 17.78%;
+    top: -0.95px;
+    left: -1666.67%;
+    line-height: 16px;
+    display: inline-block;
+ }
+ .twitter {
+    position: absolute;
+    width: 12.78%;
+    top: -0.95px;
+    left: -1616.67%;
+    line-height: 16px;
+    display: inline-block;
+ }
+ .pinterest {
+    position: absolute;
+    width: 15.56%;
+    top: -0.95px;
+    left: -1641.67%;
+    line-height: 16px;
+    display: inline-block;
+ }
+ .facebook {
+    position: absolute;
+    width: 17.22%;
+    top: -0.95px;
+    left: -1591.67%;
+    line-height: 16px;
+    display: inline-block;
+ }
+ .frame12 {
+    position: absolute;
+    width: 100%;
+    top: 776px;
+    right: 0%;
+    left: 0%;
+    height: 22.5px;
+    text-align: left;
+    color: var(--color-limegreen);
+ }
+ .rectangle7 {
+    position: absolute;
+    width: 100%;
+    top: 0px;
+    right: 0%;
+    left: 0%;
+    height: 90px;
+ }
+ .a-food-blog {
+    position: absolute;
+    top: 18px;
+    left: calc(50% - 120px);
+    letter-spacing: 3.23px;
+    line-height: 27.2px;
+    display: inline-block;
+    width: 240px;
+ }
+ .frame13 {
+    position: absolute;
+    width: 100%;
+    top: 0.05px;
+    right: 0%;
+    left: 0%;
+    height: 90px;
+    font-size: 17px;
+ }
+ .untitled-design-3-2 {
+    position: absolute;
+    top: 840.05px;
+    left: 63px;
+    width: 245px;
+    height: 286px;
+    object-fit: cover;
+ }
+ .frame7 {
+    position: absolute;
+    width: 99.72%;
+    top: -0.05px;
+    right: 0%;
+    left: 0.28%;
+    height: 1145.5px;
+ }
+ .frame6 {
+    position: absolute;
+    width: 37.6%;
+    top: 0.05px;
+    right: 0%;
+    left: 62.4%;
+    height: 1182px;
+ }
+ .rectangle8 {
+    position: absolute;
+    width: 100%;
+    top: 1240.5px;
+    right: 0%;
+    left: 0%;
+    background-color: var(--color-gainsboro);
+    height: 1px;
+ }
+ .rectangle9 {
+    position: absolute;
+    width: 100%;
+    top: 0px;
+    right: 0%;
+    left: 0%;
+    height: 9414px;
+ }
+ .rectangle10 {
+    position: absolute;
+    width: 100%;
+    top: 413px;
+    right: 0%;
+    left: 0%;
+    background-color: var(--color-gainsboro);
+    height: 1px;
+ }
+ .rectangle11 {
+    position: absolute;
+    width: 100%;
+    top: 0px;
+    right: 0%;
+    left: 0%;
+    height: 230px;
+ }
+ .hard-boiled-eggs {
+    position: absolute;
+    width: 11.98%;
+    top: -1.45px;
+    left: -596.46%;
+    font-size: 15px;
+    line-height: 16px;
+    display: inline-block;
+ }
+ .homemade-pasta {
+    position: absolute;
+    width: 11.67%;
+    top: -1.45px;
+    left: -559.69%;
+    font-size: var(--font-size-smi);
+    line-height: 16px;
+    display: inline-block;
+ }
+ .roasted-broccoli {
+    position: absolute;
+    width: 11.56%;
+    top: -1.45px;
+    left: -578.12%;
+    line-height: 16px;
+    display: inline-block;
+ }
+ .pickled-onions {
+    position: absolute;
+    width: 10.21%;
+    top: -1.45px;
+    left: -541.25%;
+    line-height: 16px;
+    display: inline-block;
+ }
+ .aaron-loeb-1 {
+    position: absolute;
+    top: -1.45px;
+    left: 0px;
+    width: 960px;
+    height: 160px;
+    object-fit: cover;
+ }
+ .frame17 {
+    position: absolute;
+    width: 100%;
+    top: 0.45px;
+    right: 0%;
+    left: 0%;
+    height: 158.95px;
+ }
+ .frame16 {
+    position: absolute;
+    width: 100%;
+    top: 482.55px;
+    right: 0%;
+    left: 0%;
+    height: 230px;
+ }
+ .rectangle12 {
+    position: absolute;
+    width: 100%;
+    top: 8894.89px;
+    right: 0%;
+    left: 0%;
+    background-color: var(--color-gainsboro);
+    height: 1px;
+ }
+ .rectangle13 {
+    position: absolute;
+    width: 100%;
+    top: 9272.56px;
+    right: 0%;
+    left: 0%;
+    background-color: var(--color-gainsboro);
+    height: 1px;
+ }
+ .rectangle14 {
+    position: absolute;
+    width: 100%;
+    top: 0px;
+    right: 0%;
+    left: 0%;
+    height: 413px;
+ }
+ .frame18 {
+    position: absolute;
+    width: 100%;
+    top: -0.45px;
+    right: 0%;
+    left: 0%;
+    height: 413px;
+ }
+ .rectangle15 {
+    position: absolute;
+    width: 100%;
+    top: 0px;
+    right: 0%;
+    left: 0%;
+    height: 8062px;
+ }
+ .rectangle16 {
+    position: absolute;
+    width: 100%;
+    top: 0px;
+    right: 0%;
+    left: 0%;
+    background-color: var(--color-gold);
+    height: 35px;
+ }
+ .recent-post {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 52px);
+    letter-spacing: 1.2px;
+    line-height: 35px;
+    display: inline-block;
+    width: 104px;
+ }
+ .frame21 {
+    position: absolute;
+    width: 48.01%;
+    top: -0.41px;
+    right: 25.95%;
+    left: 26.04%;
+    height: 35px;
+ }
+ .rectangle17 {
+    position: absolute;
+    width: 100%;
+    top: 0px;
+    right: 0%;
+    left: 0%;
+    height: 680px;
+ }
+ .rectangle18 {
+    position: absolute;
+    width: 99.91%;
+    top: 674px;
+    right: 0.09%;
+    left: 0%;
+    background-color: var(--color-gainsboro);
+    height: 1px;
+ }
+ .natures-low-carb-pasta {
+    position: absolute;
+    top: 38px;
+    left: calc(50% - 207px);
+    letter-spacing: 0.56px;
+    line-height: 27px;
+    display: inline-block;
+    width: 414px;
+ }
+ .image-icon3 {
+    position: absolute;
+    width: 100%;
+    top: 154px;
+    right: 0%;
+    left: 0%;
+    max-width: 100%;
+    overflow: hidden;
+    height: 442px;
+    object-fit: cover;
+ }
+ .spaghetti-squash {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 95px);
+    font-size: var(--font-size-base);
+    letter-spacing: 0.8px;
+    line-height: 24px;
+    display: inline-block;
+    width: 189px;
+ }
+ .rectangle19 {
+    position: absolute;
+    width: 100%;
+    top: 0px;
+    right: 0%;
+    left: 0%;
+    height: 55px;
+ }
+ .see-recipe {
+    position: absolute;
+    top: -2px;
+    left: calc(50% - 35px);
+    letter-spacing: 3px;
+    line-height: 15px;
+    text-transform: uppercase;
+    display: inline-block;
+    width: 126px;
+ }
+ .frame23 {
+    position: absolute;
+    width: 100%;
+    top: 619.41px;
+    right: 5.43%;
+    left: -5.43%;
+    height: 55px;
+    font-size: var(--font-size-xs);
+ }
+ .frame22 {
+    position: absolute;
+    width: 100.09%;
+    top: 60.59px;
+    right: -0.09%;
+    left: 0%;
+    height: 680px;
+    font-size: var(--font-size-sm);
+ }
+ .rectangle20 {
+    position: absolute;
+    width: 100%;
+    top: 740.59px;
+    right: 0%;
+    left: 0%;
+    background-color: var(--color-gainsboro);
+    height: 1px;
+ }
+ .frame20 {
+    position: absolute;
+    width: 46%;
+    top: 626px;
+    right: 55.88%;
+    left: -1.87%;
+    height: 803.59px;
+ }
+ .fan-favorite {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 55px);
+    letter-spacing: 1.2px;
+    line-height: 35px;
+    display: inline-block;
+    width: 109px;
+ }
+ .frame25 {
+    position: absolute;
+    width: 48.01%;
+    top: -0.41px;
+    right: 26.04%;
+    left: 25.95%;
+    height: 35px;
+ }
+ .rectangle23 {
+    position: absolute;
+    width: 99.91%;
+    top: 674px;
+    right: 0%;
+    left: 0.09%;
+    background-color: var(--color-gainsboro);
+    height: 1px;
+ }
+ .a-warmly-spiced {
+    position: absolute;
+    top: 38px;
+    left: calc(50% - 208px);
+    letter-spacing: 0.56px;
+    line-height: 27px;
+    display: inline-block;
+    width: 417px;
+ }
+ .pumpkin-bread {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 135px);
+    font-size: var(--font-size-base);
+    letter-spacing: 0.8px;
+    line-height: 24px;
+    display: inline-block;
+    width: 271px;
+ }
+ .frame26 {
+    position: absolute;
+    width: 100.09%;
+    top: 62px;
+    right: 0.13%;
+    left: -0.23%;
+    height: 680px;
+    font-size: var(--font-size-sm);
+ }
+ .frame24 {
+    position: absolute;
+    width: 46%;
+    top: 626px;
+    right: 0.04%;
+    left: 53.96%;
+    height: 803.59px;
+ }
+ .frame27 {
+    position: absolute;
+    width: 46.04%;
+    top: 1308px;
+    right: 3.96%;
+    left: 50%;
+    height: 55px;
+ }
+ .frame29 {
+    position: absolute;
+    width: 48.01%;
+    top: 0px;
+    right: 25.95%;
+    left: 26.04%;
+    height: 35px;
+ }
+ .rectangle28 {
+    position: absolute;
+    width: 99.91%;
+    top: 673.59px;
+    right: 0.09%;
+    left: 0%;
+    background-color: var(--color-gainsboro);
+    height: 1px;
+ }
+ .discover-comfort-in {
+    position: absolute;
+    top: 38px;
+    left: calc(50% - 210px);
+    letter-spacing: 0.56px;
+    line-height: 27px;
+    display: inline-block;
+    width: 419px;
+ }
+ .the-best-soup {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 92px);
+    font-size: var(--font-size-base);
+    letter-spacing: 0.8px;
+    line-height: 24px;
+    display: inline-block;
+    width: 184px;
+ }
+ .frame31 {
+    position: absolute;
+    width: 100%;
+    top: 625px;
+    right: 0%;
+    left: 0%;
+    height: 55px;
+    font-size: var(--font-size-xs);
+ }
+ .frame30 {
+    position: absolute;
+    width: 100.09%;
+    top: 61px;
+    right: -0.09%;
+    left: 0%;
+    height: 680px;
+    font-size: var(--font-size-sm);
+ }
+ .frame28 {
+    position: absolute;
+    width: 46%;
+    top: 1464px;
+    right: 55.88%;
+    left: -1.87%;
+    height: 803.59px;
+ }
+ .frame33 {
+    position: absolute;
+    width: 48.01%;
+    top: 0px;
+    right: 26.04%;
+    left: 25.95%;
+    height: 35px;
+ }
+ .rectangle33 {
+    position: absolute;
+    width: 99.91%;
+    top: 673.59px;
+    right: 0%;
+    left: 0.09%;
+    background-color: var(--color-gainsboro);
+    height: 1px;
+ }
+ .savor-the-simplicity {
+    position: absolute;
+    top: 38px;
+    left: calc(50% - 191px);
+    letter-spacing: 0.56px;
+    line-height: 27px;
+    display: inline-block;
+    width: 382px;
+ }
+ .frame35 {
+    position: absolute;
+    width: 100%;
+    top: 625px;
+    right: -0.09%;
+    left: 0.09%;
+    height: 55px;
+    font-size: var(--font-size-xs);
+ }
+ .frame34 {
+    position: absolute;
+    width: 100.09%;
+    top: 61px;
+    right: 0%;
+    left: -0.09%;
+    height: 680px;
+    font-size: var(--font-size-sm);
+ }
+ .frame32 {
+    position: absolute;
+    width: 46%;
+    top: 1464px;
+    right: 0.04%;
+    left: 53.96%;
+    height: 803.59px;
+ }
+ .recent-post2 {
+    position: absolute;
+    top: -1px;
+    left: calc(50% - 52px);
+    letter-spacing: 1.2px;
+    line-height: 35px;
+    display: inline-block;
+    width: 104px;
+ }
+ .frame37 {
+    position: absolute;
+    width: 48.01%;
+    top: 0.41px;
+    right: 25.95%;
+    left: 26.04%;
+    height: 35px;
+ }
+ .rectangle38 {
+    position: absolute;
+    width: 99.91%;
+    top: 673.19px;
+    right: 0.09%;
+    left: 0%;
+    background-color: var(--color-gainsboro);
+    height: 1px;
+ }
+ .indulge-in-the {
+    position: absolute;
+    top: 38px;
+    left: calc(50% - 207px);
+    letter-spacing: 0.56px;
+    line-height: 27px;
+    display: inline-block;
+    width: 413px;
+ }
+ .pumpkin-soup {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 68px);
+    font-size: var(--font-size-base);
+    letter-spacing: 0.8px;
+    line-height: 24px;
+    display: inline-block;
+    width: 135px;
+ }
+ .frame39 {
+    position: absolute;
+    width: 100%;
+    top: 624.59px;
+    right: 8.6%;
+    left: -8.6%;
+    height: 55px;
+    font-size: var(--font-size-xs);
+ }
+ .frame38 {
+    position: absolute;
+    width: 100.09%;
+    top: 61.41px;
+    right: -0.09%;
+    left: 0%;
+    height: 680px;
+    font-size: var(--font-size-sm);
+ }
+ .frame36 {
+    position: absolute;
+    width: 46%;
+    top: 2349px;
+    right: 55.88%;
+    left: -1.87%;
+    height: 803.59px;
+ }
+ .fan-favorite2 {
+    position: absolute;
+    top: -1px;
+    left: calc(50% - 55px);
+    letter-spacing: 1.2px;
+    line-height: 35px;
+    display: inline-block;
+    width: 109px;
+ }
+ .frame41 {
+    position: absolute;
+    width: 48.01%;
+    top: 0.41px;
+    right: 26.04%;
+    left: 25.95%;
+    height: 35px;
+ }
+ .rectangle43 {
+    position: absolute;
+    width: 99.91%;
+    top: 673.19px;
+    right: 0%;
+    left: 0.09%;
+    background-color: var(--color-gainsboro);
+    height: 1px;
+ }
+ .a-timeless-favorite {
+    position: absolute;
+    top: 38px;
+    left: calc(50% - 206px);
+    letter-spacing: 0.56px;
+    line-height: 27px;
+    display: inline-block;
+    width: 413px;
+ }
+ .banana-bread {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 118px);
+    font-size: var(--font-size-base);
+    letter-spacing: 0.8px;
+    line-height: 24px;
+    display: inline-block;
+    width: 237px;
+ }
+ .frame43 {
+    position: absolute;
+    width: 100%;
+    top: 624.59px;
+    right: 9.86%;
+    left: -9.86%;
+    height: 55px;
+    font-size: var(--font-size-xs);
+ }
+ .frame42 {
+    position: absolute;
+    width: 100.09%;
+    top: 61.41px;
+    right: 0%;
+    left: -0.09%;
+    height: 680px;
+    font-size: var(--font-size-sm);
+ }
+ .frame40 {
+    position: absolute;
+    width: 46%;
+    top: 2348px;
+    right: 0.04%;
+    left: 53.96%;
+    height: 803.59px;
+ }
+ .frame45 {
+    position: absolute;
+    width: 48.01%;
+    top: -0.19px;
+    right: 25.95%;
+    left: 26.04%;
+    height: 35px;
+ }
+ .rectangle48 {
+    position: absolute;
+    width: 99.91%;
+    top: 673.78px;
+    right: 0.09%;
+    left: 0%;
+    background-color: var(--color-gainsboro);
+    height: 1px;
+ }
+ .this-margherita-pizza {
+    position: absolute;
+    top: 38px;
+    left: calc(50% - 209px);
+    letter-spacing: 0.56px;
+    line-height: 27px;
+    display: inline-block;
+    width: 417px;
+ }
+ .pumpkin-pancakes {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 76px);
+    font-size: var(--font-size-base);
+    letter-spacing: 0.8px;
+    line-height: 24px;
+    display: inline-block;
+    width: 152px;
+ }
+ .frame47 {
+    position: absolute;
+    width: 100%;
+    top: 631.19px;
+    right: 9.95%;
+    left: -9.95%;
+    height: 55px;
+    font-size: var(--font-size-xs);
+ }
+ .frame46 {
+    position: absolute;
+    width: 100.09%;
+    top: 60.81px;
+    right: -0.09%;
+    left: 0%;
+    height: 680px;
+    font-size: var(--font-size-sm);
+ }
+ .frame44 {
+    position: absolute;
+    width: 46%;
+    top: 3252px;
+    right: 55.88%;
+    left: -1.87%;
+    height: 803.59px;
+ }
+ .frame49 {
+    position: absolute;
+    width: 48.01%;
+    top: -0.19px;
+    right: 26.04%;
+    left: 25.95%;
+    height: 35px;
+ }
+ .rectangle53 {
+    position: absolute;
+    width: 99.91%;
+    top: 673.78px;
+    right: 0%;
+    left: 0.09%;
+    background-color: var(--color-gainsboro);
+    height: 1px;
+ }
+ .these-easy-plant-based {
+    position: absolute;
+    top: 38px;
+    left: calc(50% - 207px);
+    letter-spacing: 0.56px;
+    line-height: 27px;
+    display: inline-block;
+    width: 415px;
+ }
+ .butternut-squash {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 123px);
+    font-size: var(--font-size-base);
+    letter-spacing: 0.8px;
+    line-height: 24px;
+    display: inline-block;
+    width: 246px;
+ }
+ .frame50 {
+    position: absolute;
+    width: 100.09%;
+    top: 60.81px;
+    right: 0%;
+    left: -0.09%;
+    height: 680px;
+    font-size: var(--font-size-sm);
+ }
+ .frame48 {
+    position: absolute;
+    width: 46%;
+    top: 3252px;
+    right: 0.04%;
+    left: 53.96%;
+    height: 803.59px;
+ }
+ .frame51 {
+    position: absolute;
+    width: 46.04%;
+    top: 3944px;
+    right: 3.96%;
+    left: 50%;
+    height: 55px;
+ }
+ .frame53 {
+    position: absolute;
+    width: 48.01%;
+    top: 0.22px;
+    right: 25.95%;
+    left: 26.04%;
+    height: 35px;
+ }
+ .rectangle58 {
+    position: absolute;
+    width: 99.91%;
+    top: 673.38px;
+    right: 0.09%;
+    left: 0%;
+    background-color: var(--color-gainsboro);
+    height: 1px;
+ }
+ .hard-boiled-eggs1 {
+    position: absolute;
+    top: -0.22px;
+    left: calc(50% - 89px);
+    font-size: var(--font-size-base);
+    letter-spacing: 0.8px;
+    line-height: 24px;
+    display: inline-block;
+    width: 178px;
+ }
+ .frame55 {
+    position: absolute;
+    width: 100%;
+    top: 635.78px;
+    right: 4.98%;
+    left: -4.98%;
+    height: 55px;
+    font-size: var(--font-size-xs);
+ }
+ .frame54 {
+    position: absolute;
+    width: 100.09%;
+    top: 61.22px;
+    right: -0.09%;
+    left: 0%;
+    height: 680px;
+    font-size: var(--font-size-sm);
+ }
+ .frame52 {
+    position: absolute;
+    width: 46%;
+    top: 4118px;
+    right: 55.88%;
+    left: -1.87%;
+    height: 803.59px;
+ }
+ .frame57 {
+    position: absolute;
+    width: 48.01%;
+    top: 0.22px;
+    right: 26.04%;
+    left: 25.95%;
+    height: 35px;
+ }
+ .rectangle62 {
+    position: absolute;
+    width: 100%;
+    top: 0px;
+    right: 0%;
+    left: 0%;
+    height: 665px;
+ }
+ .rectangle63 {
+    position: absolute;
+    width: 99.91%;
+    top: 658.38px;
+    right: 0%;
+    left: 0.09%;
+    background-color: var(--color-gainsboro);
+    height: 1px;
+ }
+ .elevate-the-humble {
+    position: absolute;
+    top: 38px;
+    left: calc(50% - 202px);
+    letter-spacing: 0.56px;
+    line-height: 27px;
+    display: inline-block;
+    width: 404px;
+ }
+ .rectangle64 {
+    position: absolute;
+    width: 100%;
+    top: 618px;
+    right: 0%;
+    left: 0%;
+    height: 40px;
+ }
+ .roasted-broccoli1 {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 109px);
+    font-size: var(--font-size-base);
+    letter-spacing: 0.8px;
+    line-height: 24px;
+    display: inline-block;
+    width: 219px;
+ }
+ .frame59 {
+    position: absolute;
+    width: 100%;
+    top: 629.78px;
+    right: 6.7%;
+    left: -6.7%;
+    height: 55px;
+    font-size: var(--font-size-xs);
+ }
+ .frame58 {
+    position: absolute;
+    width: 100.09%;
+    top: 61.22px;
+    right: 0%;
+    left: -0.09%;
+    height: 665px;
+    font-size: var(--font-size-sm);
+ }
+ .rectangle66 {
+    position: absolute;
+    width: 100%;
+    top: 725.59px;
+    right: 0%;
+    left: 0%;
+    background-color: var(--color-gainsboro);
+    height: 1px;
+ }
+ .frame56 {
+    position: absolute;
+    width: 46%;
+    top: 4117px;
+    right: 0.04%;
+    left: 53.96%;
+    height: 788.59px;
+ }
+ .frame61 {
+    position: absolute;
+    width: 48.01%;
+    top: -0.37px;
+    right: 25.95%;
+    left: 26.04%;
+    height: 35px;
+ }
+ .rectangle69 {
+    position: absolute;
+    width: 99.91%;
+    top: 658.97px;
+    right: 0.09%;
+    left: 0%;
+    background-color: var(--color-gainsboro);
+    height: 1px;
+ }
+ .coffee-smoothie {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 92px);
+    letter-spacing: 0.8px;
+    line-height: 24px;
+    display: inline-block;
+    width: 184px;
+ }
+ .start-your-day {
+    position: absolute;
+    top: 38px;
+    left: calc(50% - 201px);
+    font-size: var(--font-size-sm);
+    letter-spacing: 0.56px;
+    line-height: 27px;
+    display: inline-block;
+    width: 401px;
+ }
+ .rectangle70 {
+    position: absolute;
+    width: 100%;
+    top: 619px;
+    right: 0%;
+    left: 0%;
+    height: 40px;
+ }
+ .frame63 {
+    position: absolute;
+    width: 100%;
+    top: 619px;
+    right: 7.69%;
+    left: -7.69%;
+    height: 55px;
+    font-size: var(--font-size-xs);
+ }
+ .frame62 {
+    position: absolute;
+    width: 100.09%;
+    top: 62px;
+    right: -3.26%;
+    left: 3.17%;
+    height: 665px;
+    font-size: var(--font-size-base);
+ }
+ .frame60 {
+    position: absolute;
+    width: 46%;
+    top: 4975px;
+    right: 55.25%;
+    left: -1.25%;
+    height: 788.59px;
+ }
+ .frame65 {
+    position: absolute;
+    width: 48.01%;
+    top: -0.37px;
+    right: 26.04%;
+    left: 25.95%;
+    height: 35px;
+ }
+ .rectangle75 {
+    position: absolute;
+    width: 99.91%;
+    top: 673.97px;
+    right: 0%;
+    left: 0.09%;
+    background-color: var(--color-gainsboro);
+    height: 1px;
+ }
+ .energize-your-mornings {
+    position: absolute;
+    top: 38px;
+    left: calc(50% - 206px);
+    letter-spacing: 0.56px;
+    line-height: 27px;
+    display: inline-block;
+    width: 412px;
+ }
+ .healthy-breakfast-ideas {
+    position: absolute;
+    top: 0.38px;
+    left: calc(50% - 99.59px);
+    font-size: var(--font-size-base);
+    letter-spacing: 0.8px;
+    line-height: 24px;
+    display: inline-block;
+    width: 200px;
+    height: 29px;
+ }
+ .frame67 {
+    position: absolute;
+    width: 100%;
+    top: 625.38px;
+    right: 8.51%;
+    left: -8.51%;
+    height: 55px;
+    font-size: var(--font-size-xs);
+ }
+ .frame66 {
+    position: absolute;
+    width: 100.09%;
+    top: 60.63px;
+    right: 0%;
+    left: -0.09%;
+    height: 680px;
+    font-size: var(--font-size-sm);
+ }
+ .frame64 {
+    position: absolute;
+    width: 46%;
+    top: 4975px;
+    right: 0.04%;
+    left: 53.96%;
+    height: 803.59px;
+ }
+ .frame69 {
+    position: absolute;
+    width: 48.01%;
+    top: 0.03px;
+    right: 25.95%;
+    left: 26.04%;
+    height: 35px;
+ }
+ .rectangle80 {
+    position: absolute;
+    width: 99.91%;
+    top: 658.56px;
+    right: 0.09%;
+    left: 0%;
+    background-color: var(--color-gainsboro);
+    height: 1px;
+ }
+ .elevate-your-greens {
+    position: absolute;
+    top: 38px;
+    left: calc(50% - 197px);
+    letter-spacing: 0.56px;
+    line-height: 27px;
+    display: inline-block;
+    width: 394px;
+ }
+ .salad-ideas {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 83px);
+    font-size: var(--font-size-base);
+    letter-spacing: 0.8px;
+    line-height: 24px;
+    display: inline-block;
+    width: 166px;
+ }
+ .frame70 {
+    position: absolute;
+    width: 100.09%;
+    top: 73px;
+    right: -0.09%;
+    left: 0%;
+    height: 665px;
+    font-size: var(--font-size-sm);
+ }
+ .frame68 {
+    position: absolute;
+    width: 46%;
+    top: 5848px;
+    right: 53.79%;
+    left: 0.21%;
+    height: 788.59px;
+ }
+ .frame73 {
+    position: absolute;
+    width: 48.01%;
+    top: 0.03px;
+    right: 26.04%;
+    left: 25.95%;
+    height: 35px;
+ }
+ .rectangle86 {
+    position: absolute;
+    width: 99.91%;
+    top: 673.56px;
+    right: 0%;
+    left: 0.09%;
+    background-color: var(--color-gainsboro);
+    height: 1px;
+ }
+ .discover-the-simple {
+    position: absolute;
+    top: 38px;
+    left: calc(50% - 209px);
+    font-size: var(--font-size-sm);
+    letter-spacing: 0.56px;
+    line-height: 27px;
+    display: inline-block;
+    width: 419px;
+ }
+ .frame75 {
+    position: absolute;
+    width: 100%;
+    top: 618.97px;
+    right: 5.79%;
+    left: -5.79%;
+    height: 55px;
+    font-size: var(--font-size-xs);
+ }
+ .frame74 {
+    position: absolute;
+    width: 100.09%;
+    top: 61.03px;
+    right: 0%;
+    left: -0.09%;
+    height: 680px;
+    font-size: var(--font-size-base);
+ }
+ .frame72 {
+    position: absolute;
+    width: 46%;
+    top: 5864px;
+    right: 0.04%;
+    left: 53.96%;
+    height: 803.59px;
+ }
+ .rectangle89 {
+    position: absolute;
+    width: 100%;
+    top: 0px;
+    right: 0%;
+    left: 0%;
+    background-color: #77dd77;
+    height: 194px;
+ }
+ .more {
+    position: absolute;
+    top: calc(50% - 36px);
+    left: calc(50% - 26px);
+    letter-spacing: 2px;
+    line-height: 25px;
+    text-transform: lowercase;
+    display: inline-block;
+    width: 60px;
+ }
+ .recipes {
+    position: absolute;
+    top: calc(50% - 11px);
+    left: calc(50% - 40px);
+    letter-spacing: 2px;
+    line-height: 25px;
+    text-transform: lowercase;
+    display: inline-block;
+    width: 88px;
+ }
+ .image-icon17 {
+    position: absolute;
+    bottom: 58px;
+    left: calc(50% - 8px);
+    width: 17px;
+    height: 20px;
+    object-fit: cover;
+ }
+ .frame76 {
+    position: absolute;
+    width: 20.21%;
+    top: 147px;
+    right: 39.9%;
+    left: 39.9%;
+    height: 194px;
+    font-size: var(--font-size-xl);
+    color: var(--color-lightgoldenrodyellow);
+ }
+ .eats-1-icon {
+    position: absolute;
+    top: 6753px;
+    left: -38px;
+    width: 908px;
+    height: 1224px;
+    object-fit: cover;
+ }
+ .frame19 {
+    position: absolute;
+    width: 100%;
+    top: 832.55px;
+    right: 0%;
+    left: 0%;
+    height: 8062px;
+    text-align: center;
+    font-size: var(--font-size-xs);
+    color: var(--color-black);
+ }
+ .rectangle90 {
+    position: absolute;
+    width: 100%;
+    top: 0px;
+    right: 0%;
+    left: 0%;
+    height: 308px;
+ }
+ .untitled-design-6-1 {
+    position: absolute;
+    top: -18px;
+    left: 0px;
+    width: 960px;
+    height: 235px;
+    object-fit: cover;
+ }
+ .frame77 {
+    position: absolute;
+    width: 100%;
+    top: 8964.55px;
+    right: 0%;
+    left: 0%;
+    height: 308px;
+ }
+ .rectangle91 {
+    position: absolute;
+    width: 100%;
+    top: 712.95px;
+    right: 0%;
+    left: 0%;
+    background-color: var(--color-gainsboro);
+    height: 1px;
+ }
+ .frame15 {
+    position: absolute;
+    width: 100%;
+    top: 71.45px;
+    right: 0%;
+    left: 0%;
+    height: 9342.56px;
+ }
+ .frame14 {
+    position: absolute;
+    width: 100%;
+    top: 1241.05px;
+    right: 0%;
+    left: 0%;
+    height: 9414px;
+    text-align: left;
+    color: var(--color-limegreen);
+ }
+ .frame1 {
+    position: absolute;
+    width: 80%;
+    top: 271.95px;
+    right: 10%;
+    left: 10%;
+    height: 10655.06px;
+    font-size: var(--font-size-sm);
+ }
+ .fancyy-1-icon {
+    position: absolute;
+    top: 1514px;
+    left: 0px;
+    width: 1200px;
+    height: 480px;
+    object-fit: cover;
+ }
+ .image-icon18 {
+    position: absolute;
+    width: 100%;
+    top: 10857px;
+    right: 0%;
+    left: 0%;
+    max-width: 100%;
+    overflow: hidden;
+    height: 15px;
+    object-fit: cover;
+ }
+ .rectangle92 {
+    position: absolute;
+    top: -125px;
+    left: 0px;
+    background-color: var(--color-lightgoldenrodyellow);
+    box-shadow: 0px 5px 6px rgba(0, 0, 0, 0.4);
+    width: 1200px;
+    height: 60px;
+ }
+ .image-icon19 {
+    position: absolute;
+    width: 4.58%;
+    top: calc(50% - 5950px);
+    right: 95%;
+    left: 0.42%;
+    border-radius: var(--br-8xs);
+    max-width: 100%;
+    overflow: hidden;
+    height: 60px;
+    object-fit: cover;
+ }
+ .image-icon20 {
+    position: absolute;
+    width: 4.58%;
+    top: calc(50% - 5950px);
+    right: 81.67%;
+    left: 13.75%;
+    border-radius: var(--br-8xs);
+    max-width: 100%;
+    overflow: hidden;
+    height: 60px;
+    object-fit: cover;
+ }
+ .image-icon21 {
+    position: absolute;
+    width: 4.58%;
+    top: calc(50% - 5950px);
+    right: 68.33%;
+    left: 27.08%;
+    border-radius: var(--br-8xs);
+    max-width: 100%;
+    overflow: hidden;
+    height: 60px;
+    object-fit: cover;
+ }
+ .image-icon22 {
+    position: absolute;
+    width: 4.58%;
+    top: calc(50% - 5950px);
+    right: 55%;
+    left: 40.42%;
+    border-radius: var(--br-8xs);
+    max-width: 100%;
+    overflow: hidden;
+    height: 60px;
+    object-fit: cover;
+ }
+ .image-icon23 {
+    position: absolute;
+    width: 4.58%;
+    top: calc(50% - 5950px);
+    right: 41.67%;
+    left: 53.75%;
+    border-radius: var(--br-8xs);
+    max-width: 100%;
+    overflow: hidden;
+    height: 60px;
+    object-fit: cover;
+ }
+ .image-icon24 {
+    position: absolute;
+    width: 4.58%;
+    top: calc(50% - 5950px);
+    right: 28.33%;
+    left: 67.08%;
+    border-radius: var(--br-8xs);
+    max-width: 100%;
+    overflow: hidden;
+    height: 60px;
+    object-fit: cover;
+ }
+ .image-icon25 {
+    position: absolute;
+    width: 4.58%;
+    top: calc(50% - 5950px);
+    right: 15%;
+    left: 80.42%;
+    border-radius: var(--br-8xs);
+    max-width: 100%;
+    overflow: hidden;
+    height: 60px;
+    object-fit: cover;
+ }
+ .image-icon26 {
+    position: absolute;
+    width: 4.58%;
+    top: calc(50% - 5950px);
+    right: 1.67%;
+    left: 93.75%;
+    border-radius: var(--br-8xs);
+    max-width: 100%;
+    overflow: hidden;
+    height: 60px;
+    object-fit: cover;
+ }
+ .image-icon27 {
+    position: absolute;
+    width: 4.58%;
+    top: calc(50% - 5950px);
+    right: -11.67%;
+    left: 107.08%;
+    border-radius: var(--br-8xs);
+    max-width: 100%;
+    overflow: hidden;
+    height: 60px;
+    object-fit: cover;
+ }
+ .image-icon28 {
+    position: absolute;
+    width: 4.58%;
+    top: calc(50% - 5950px);
+    right: -25%;
+    left: 120.42%;
+    border-radius: var(--br-8xs);
+    max-width: 100%;
+    overflow: hidden;
+    height: 60px;
+    object-fit: cover;
+ }
+ .rectangle93 {
+    position: absolute;
+    width: 2.67%;
+    top: calc(50% - 5936px);
+    right: 96.33%;
+    left: 1%;
+    background-color: var(--color-midnightblue-200);
+    height: 32px;
+ }
+ .rectangle94 {
+    position: absolute;
+    top: -111px;
+    left: 12px;
+    width: 32px;
+    height: 32px;
+ }
+ .frame-icon {
+    position: absolute;
+    top: -107px;
+    left: calc(50% - 584px);
+    width: 24px;
+    height: 24px;
+    overflow: hidden;
+ }
+ .rectangle95 {
+    position: absolute;
+    width: 2.67%;
+    top: calc(50% - 5936px);
+    right: 1%;
+    left: 96.33%;
+    background-color: var(--color-midnightblue-200);
+    height: 32px;
+ }
+ .rectangle96 {
+    position: absolute;
+    top: -111px;
+    left: 1156px;
+    width: 32px;
+    height: 32px;
+ }
+ .frame-icon1 {
+    position: absolute;
+    top: -107px;
+    left: calc(50% + 560px);
+    width: 24px;
+    height: 24px;
+    overflow: hidden;
+ }
+ .rectangle97 {
+    position: absolute;
+    width: 4.08%;
+    top: 631px;
+    right: 0.58%;
+    left: 95.33%;
+    border-radius: var(--br-11xs);
+    height: 17px;
+ }
+ .rectangle98 {
+    position: absolute;
+    width: 100%;
+    top: 0px;
+    right: 0%;
+    left: 0%;
+    background-color: var(--color-lightgoldenrodyellow);
+    box-shadow: 0px 3px 5px rgba(0, 0, 0, 0.2);
+    height: 44px;
+ }
+ .rectangle99 {
+    position: absolute;
+    width: 54.55%;
+    top: -1767px;
+    right: 1193.18%;
+    left: -1147.73%;
+    height: 24px;
+ }
+ .frame78 {
+    position: absolute;
+    top: 648px;
+    left: 1146px;
+    width: 44px;
+    height: 44px;
+    overflow: hidden;
+ }
+ .frame79 {
+    position: absolute;
+    top: 658px;
+    left: calc(50% + 556px);
+    width: 24px;
+    height: 24px;
+    overflow: hidden;
+ }
+ .frame-icon2 {
+    position: absolute;
+    top: -1119px;
+    left: calc(50% + 41px);
+    width: 24px;
+    height: 24px;
+    overflow: hidden;
+ }
+ .rectangle100 {
+    position: absolute;
+    width: 0.17%;
+    top: 96px;
+    right: 84.75%;
+    left: 15.08%;
+    border-radius: var(--br-11xs);
+    background-color: rgba(255, 99, 71, 0.8);
+    box-shadow: 0px 3px 1px rgba(0, 0, 0, 0.2);
+    height: 1px;
+ }
+ .rectangle101 {
+    position: absolute;
+    width: 13.42%;
+    top: 612px;
+    right: 0.42%;
+    left: 86.17%;
+    background-color: var(--color-midnightblue-100);
+    height: 1px;
+ }
+ .rectangle102 {
+    position: absolute;
+    width: 13.42%;
+    top: 569px;
+    right: 0.42%;
+    left: 86.17%;
+    height: 43px;
+ }
+ .rectangle103 {
+    position: absolute;
+    width: 13.42%;
+    top: 655px;
+    right: 0.42%;
+    left: 86.17%;
+    background-color: var(--color-midnightblue-100);
+    height: 1px;
+ }
+ .rectangle104 {
+    position: absolute;
+    width: 13.42%;
+    top: 612px;
+    right: 0.42%;
+    left: 86.17%;
+    height: 43px;
+ }
+ .rectangle105 {
+    position: absolute;
+    width: 100%;
+    top: -80px;
+    right: 0%;
+    left: 0%;
+    height: 280px;
+ }
+ .rectangle106 {
+    position: absolute;
+    width: 100%;
+    top: -78px;
+    right: 0%;
+    left: 0%;
+    height: 52px;
+ }
+ .rectangle107 {
+    position: absolute;
+    width: 4.42%;
+    top: calc(50% - 5895px);
+    right: 94.92%;
+    left: 0.67%;
+    border-radius: 8px;
+    background-color: rgba(255, 99, 71, 0.05);
+    height: 36px;
+ }
+ .frame-icon3 {
+    position: absolute;
+    top: -62px;
+    left: calc(50% - 567px);
+    width: 20px;
+    height: 20px;
+    overflow: hidden;
+ }
+ .rectangle108 {
+    position: absolute;
+    width: 100%;
+    top: 1000px;
+    right: 0%;
+    left: 0%;
+    height: 64px;
+ }
+ .rectangle109 {
+    position: absolute;
+    top: 1006px;
+    left: 568px;
+    width: 52px;
+    height: 52px;
+ }
+ .frame-icon4 {
+    position: absolute;
+    top: 1016px;
+    left: calc(50% - 22px);
+    width: 32px;
+    height: 32px;
+    overflow: hidden;
+ }
+ .frame-icon5 {
+    position: absolute;
+    top: 1088px;
+    left: calc(50% + 548px);
+    width: 24px;
+    height: 24px;
+    overflow: hidden;
+ }
+ .rectangle110 {
+    position: absolute;
+    width: 100%;
+    top: 0px;
+    right: 0%;
+    left: 0%;
+    background-color: #ffa500;
+    height: 478px;
+ }
+ .image-icon29 {
+    position: absolute;
+    top: 40px;
+    left: calc(50% - 126px);
+    width: 252px;
+    height: 32px;
+    object-fit: cover;
+ }
+ .home {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 400px);
+    letter-spacing: 3.1px;
+    line-height: 15px;
+    text-transform: uppercase;
+    display: inline-block;
+    width: 45px;
+ }
+ .privacy-policy {
+    position: absolute;
+    top: 0px;
+    left: calc(50% + 253px);
+    letter-spacing: 3.1px;
+    line-height: 15px;
+    text-transform: uppercase;
+    display: inline-block;
+    width: 133px;
+ }
+ .frame82 {
+    position: absolute;
+    width: 100%;
+    top: 131.98px;
+    right: -0.75%;
+    left: 0.75%;
+    height: 21px;
+ }
+ .about {
+    position: absolute;
+    top: 131.98px;
+    left: calc(50% - 41px);
+    letter-spacing: 3.1px;
+    line-height: 15px;
+    text-transform: uppercase;
+    display: inline-block;
+    width: 55px;
+ }
+ .untitled-design-3-1 {
+    position: absolute;
+    top: 375.98px;
+    left: 0px;
+    width: 1495px;
+    height: 218px;
+    object-fit: cover;
+ }
+ .frame81 {
+    position: absolute;
+    width: 100%;
+    top: 94.02px;
+    right: 0%;
+    left: 0%;
+    height: 305px;
+ }
+ .copyright-2023 {
+    position: absolute;
+    top: 422px;
+    left: calc(50% - 179px);
+    font-size: var(--font-size-xs);
+    line-height: 15px;
+    display: inline-block;
+    width: 358px;
+ }
+ .frame80 {
+    position: absolute;
+    width: 100%;
+    top: 10872px;
+    right: 0%;
+    left: 0%;
+    height: 478px;
+    color: var(--color-lightgoldenrodyellow);
+ }
+ .add-a-heading-1 {
+    position: absolute;
+    top: 84px;
+    left: 70px;
+    width: 1200px;
+    height: 202px;
+    object-fit: cover;
+ }
+ .rectangle111 {
+    position: absolute;
+    width: 100%;
+    top: 0px;
+    right: 0%;
+    left: 0%;
+    background-color: var(--color-lightgoldenrodyellow);
+    height: 32px;
+ }
+ .rectangle112 {
+    position: absolute;
+    top: 5px;
+    left: calc(50% + 28.5px);
+    background-color: var(--color-lightgoldenrodyellow);
+    border: 2px solid #767676;
+    box-sizing: border-box;
+    width: 108px;
+    height: 17px;
+ }
+ .home1 {
+    position: absolute;
+    top: 9px;
+    left: calc(50% - 435.5px);
+    letter-spacing: 3.1px;
+    line-height: 10px;
+    text-transform: uppercase;
+    display: inline-block;
+    width: 45px;
+ }
+ .about1 {
+    position: absolute;
+    top: 9px;
+    left: calc(50% - 340.5px);
+    letter-spacing: 3.1px;
+    line-height: 10px;
+    text-transform: uppercase;
+    display: inline-block;
+    width: 55px;
+ }
+ .privacy-policy1 {
+    position: absolute;
+    top: 9px;
+    left: calc(50% - 235.5px);
+    letter-spacing: 3.1px;
+    line-height: 10px;
+    text-transform: uppercase;
+    display: inline-block;
+    width: 131px;
+ }
+ .untitled-design-5-1 {
+    position: absolute;
+    top: -6px;
+    left: 862px;
+    width: 170px;
+    height: 50px;
+    object-fit: cover;
+ }
+ .frame84 {
+    position: absolute;
+    width: 100%;
+    top: 0px;
+    right: 0%;
+    left: 0%;
+    height: 32px;
+ }
+ .frame83 {
+    position: absolute;
+    width: 101.58%;
+    top: 32px;
+    right: -9.08%;
+    left: 7.5%;
+    height: 42px;
+ }
+ .frame {
+    position: relative;
+    background-color: var(--color-lightgoldenrodyellow);
+    width: 100%;
+    height: 11550px;
+    overflow: hidden;
+    text-align: center;
+    font-size: var(--font-size-3xs);
+    color: var(--color-black);
+    font-family: var(--font-roboto);
+ }
+ 
+ 
+ 
