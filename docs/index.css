@@ -33,6 +33,11 @@
     display: inline-block;
     width: 257px;
  }
+ @media (max-width: 767px) {
+   .best-recipes {
+       left: -50px;
+   }
+}
  .rectangle3 {
     position: absolute;
     width: 100%;
@@ -50,6 +55,12 @@
     display: inline-block;
     width: 498px;
  }
+ @media (max-width: 767px) {
+   .the-best-recipes {
+       font-size: 95%;
+       left: -175px;
+   }
+}
  .frame5 {
     position: absolute;
     width: 103.28%;
@@ -67,6 +78,13 @@
     height: 844px;
     object-fit: cover;
  }
+ @media (max-width: 767px) {
+   .untitled-design-1-1 {
+       width: 190px;
+       height: 400px;
+       left: -20px;
+   }
+}
  .frame4 {
     position: absolute;
     width: 100%;
@@ -89,6 +107,11 @@
     text-align: left;
     display: inline-block;
  }
+ @media (max-width: 767px) {
+   .at-fancyy-eats-container {
+       top: 550px;
+   }
+}
  .frame3 {
     position: absolute;
     width: 96.67%;
@@ -142,6 +165,11 @@
     display: inline-block;
     width: 24px;
  }
+ @media (max-width: 767px) {
+   .div {
+       left: 66px;
+   }
+}
  .div1 {
     position: absolute;
     top: -0.95px;
@@ -162,6 +190,11 @@
     display: inline-block;
     width: 42px;
  }
+ @media (max-width: 767px) {
+   .vegan {
+       left: 5px;
+   }
+}
  .gluten-free {
     position: absolute;
     top: 15.05px;
@@ -172,6 +205,11 @@
     display: inline-block;
     width: 82px;
  }
+ @media (max-width: 767px) {
+   .gluten-free {
+       left: 60px;
+   }
+}
  .breakfast {
     position: absolute;
     top: -0.95px;
@@ -182,6 +220,11 @@
     display: inline-block;
     width: 72px;
  }
+ @media (max-width: 767px) {
+   .breakfast {
+       left: 0px;
+   }
+}
  .dessert {
     position: absolute;
     top: -0.95px;
@@ -192,6 +235,11 @@
     display: inline-block;
     width: 53px;
  }
+ @media (max-width: 767px) {
+   .dessert {
+       width: 0px;
+   }
+}
  .div2 {
     position: absolute;
     top: 15.05px;
@@ -202,6 +250,11 @@
     display: inline-block;
     width: 24px;
  }
+ @media (max-width: 767px) {
+   .div2 {
+       left: 45px;
+   }
+}
  .main-dish {
     position: absolute;
     top: -0.95px;
@@ -212,6 +265,11 @@
     display: inline-block;
     width: 65px;
  }
+ @media (max-width: 767px) {
+   .main-dish {
+       left: 80px;
+   }
+}
  .frame9 {
     position: absolute;
     width: 100%;
@@ -231,6 +289,11 @@
     display: inline-block;
     width: 116px;
  }
+ @media (max-width: 767px) {
+   .all-recipes {
+       left: 5px;
+   }
+}
  .image-icon {
     position: absolute;
     width: 100%;
@@ -242,6 +305,12 @@
     height: 44px;
     object-fit: cover;
  }
+ @media (max-width: 767px) {
+   .image-icon {
+       left: 5px;
+       width: fit-content;
+   }
+}
  .subscribe-1-icon {
     position: absolute;
     top: -4.95px;
@@ -250,6 +319,11 @@
     height: 92px;
     object-fit: cover;
  }
+ @media (max-width: 767px) {
+   .subscribe-1-icon {
+       width: 95%;
+   }
+}
  .frame8 {
     position: absolute;
     width: 100%;
@@ -268,6 +342,11 @@
     display: inline-block;
     width: 236px;
  }
+ @media (max-width: 767px) {
+   .hello-were-lauren {
+   left: -20px; 
+width: 85%;  }
+}
  .we-love-to {
     position: absolute;
     top: 238.05px;
@@ -278,6 +357,11 @@
     display: inline-block;
     width: 234px;
  }
+ @media (max-width: 767px) {
+   .we-love-to {
+   left: 60px; 
+   width: 90%;  }
+}
  .untitled-design-4-1 {
     position: absolute;
     top: 11.05px;
@@ -286,6 +370,11 @@
     height: 191px;
     object-fit: cover;
  }
+ @media (max-width: 767px) {
+   .untitled-design-4-1 {
+       left: -15px;
+   }
+}
  .frame11 {
     position: absolute;
     width: 100%;
@@ -305,6 +394,12 @@
     height: 44px;
     object-fit: cover;
  }
+ @media (max-width: 767px) {
+   .image-icon1 {
+       left: 5px;
+       width: fit-content;
+   }
+}
  .frame10 {
     position: absolute;
     width: 69.44%;
@@ -383,6 +478,12 @@
     display: inline-block;
     width: 240px;
  }
+ @media (max-width: 767px) {
+   .a-food-blog {
+       font-size: 80%;
+       left: -40px;
+   }
+}
  .frame13 {
     position: absolute;
     width: 100%;
@@ -400,6 +501,10 @@
     height: 286px;
     object-fit: cover;
  }
+ @media (max-width: 767px) {
+   .untitled-design-3-2 {
+   left: 0px; }
+}
  .frame7 {
     position: absolute;
     width: 99.72%;
@@ -492,6 +597,11 @@
     height: 160px;
     object-fit: cover;
  }
+ @media (max-width: 767px) {
+   .aaron-loeb-1 {
+   left: -70px; 
+width: 340px;}
+}
  .frame17 {
     position: absolute;
     width: 100%;
@@ -602,6 +712,10 @@
     display: inline-block;
     width: 414px;
  }
+ @media (max-width: 767px) {
+   .natures-low-carb-pasta {
+   font-size: 70%;  }
+}
  .image-icon3 {
     position: absolute;
     width: 100%;
@@ -711,6 +825,10 @@
     display: inline-block;
     width: 417px;
  }
+ @media (max-width: 767px) {
+   .a-warmly-spiced {
+   font-size: 70%;  }
+}
  .pumpkin-bread {
     position: absolute;
     top: 0px;
@@ -772,6 +890,10 @@
     display: inline-block;
     width: 419px;
  }
+ @media (max-width: 767px) {
+   .discover-comfort-in {
+   font-size: 70%;  }
+}
  .the-best-soup {
     position: absolute;
     top: 0px;
@@ -834,6 +956,10 @@
     display: inline-block;
     width: 382px;
  }
+ @media (max-width: 767px) {
+   .savor-the-simplicity {
+   font-size: 70%;  }
+}
  .frame35 {
     position: absolute;
     width: 100%;
@@ -895,6 +1021,10 @@
     display: inline-block;
     width: 413px;
  }
+ @media (max-width: 767px) {
+   .indulge-in-the {
+   font-size: 70%;  }
+}
  .pumpkin-soup {
     position: absolute;
     top: 0px;
@@ -966,6 +1096,10 @@
     display: inline-block;
     width: 413px;
  }
+ @media (max-width: 767px) {
+   .a-timeless-favorite {
+   font-size: 70%;  }
+}
  .banana-bread {
     position: absolute;
     top: 0px;
@@ -1028,6 +1162,10 @@
     display: inline-block;
     width: 417px;
  }
+ @media (max-width: 767px) {
+   .this-margherita-pizza {
+   font-size: 70%;  }
+}
  .pumpkin-pancakes {
     position: absolute;
     top: 0px;
@@ -1090,6 +1228,10 @@
     display: inline-block;
     width: 415px;
  }
+ @media (max-width: 767px) {
+   .these-easy-plant-based {
+   font-size: 70%;  }
+}
  .butternut-squash {
     position: absolute;
     top: 0px;
@@ -1212,6 +1354,10 @@
     display: inline-block;
     width: 404px;
  }
+ @media (max-width: 767px) {
+   .elevate-the-humble {
+   font-size: 70%;  }
+}
  .rectangle64 {
     position: absolute;
     width: 100%;
@@ -1301,6 +1447,10 @@
     display: inline-block;
     width: 401px;
  }
+ @media (max-width: 767px) {
+   .start-your-day {
+   font-size: 70%;  }
+}
  .rectangle70 {
     position: absolute;
     width: 100%;
@@ -1361,6 +1511,10 @@
     display: inline-block;
     width: 412px;
  }
+ @media (max-width: 767px) {
+   .energize-your-mornings {
+   font-size: 70%;  }
+}
  .healthy-breakfast-ideas {
     position: absolute;
     top: 0.38px;
@@ -1424,6 +1578,10 @@
     display: inline-block;
     width: 394px;
  }
+ @media (max-width: 767px) {
+   .elevate-your-greens {
+   font-size: 70%;  }
+}
  .salad-ideas {
     position: absolute;
     top: 0px;
@@ -1478,6 +1636,10 @@
     display: inline-block;
     width: 419px;
  }
+ @media (max-width: 767px) {
+   .discover-the-simple {
+   font-size: 70%;  }
+}
  .frame75 {
     position: absolute;
     width: 100%;
@@ -1559,6 +1721,11 @@
     height: 1224px;
     object-fit: cover;
  }
+ @media (max-width: 767px) {
+   .eats-1-icon {
+   left: -250px; 
+   width: 60%; }
+}
  .frame19 {
     position: absolute;
     width: 100%;
@@ -1586,6 +1753,10 @@
     height: 235px;
     object-fit: cover;
  }
+ @media (max-width: 767px) {
+   .untitled-design-6-1 {
+  left: -90px }
+}
  .frame77 {
     position: absolute;
     width: 100%;
@@ -1638,6 +1809,11 @@
     height: 480px;
     object-fit: cover;
  }
+ @media (max-width: 767px) {
+   .fancyy-1-icon {
+   top: -500px; 
+   height: 100px;  }
+}
  .image-icon18 {
     position: absolute;
     width: 100%;
@@ -2014,6 +2190,10 @@
     display: inline-block;
     width: 45px;
  }
+ @media (max-width: 767px) {
+   .home {
+   left: 30px  }
+}
  .privacy-policy {
     position: absolute;
     top: 0px;
@@ -2024,6 +2204,10 @@
     display: inline-block;
     width: 133px;
  }
+ @media (max-width: 767px) {
+   .privacy-policy {
+   left: 220px  }
+}
  .frame82 {
     position: absolute;
     width: 100%;
@@ -2042,6 +2226,10 @@
     display: inline-block;
     width: 55px;
  }
+ @media (max-width: 767px) {
+   .about {
+   left: 130px  }
+}
  .untitled-design-3-1 {
     position: absolute;
     top: 375.98px;
@@ -2084,6 +2272,11 @@
     height: 202px;
     object-fit: cover;
  }
+ @media (max-width: 767px) {
+   .add-a-heading-1 {
+       left: -353px;
+   }
+}
  .rectangle111 {
     position: absolute;
     width: 100%;
@@ -2103,6 +2296,12 @@
     width: 108px;
     height: 17px;
  }
+ @media (max-width: 767px) {
+   .rectangle112 {
+       left: 255px;
+       width: 80px;
+   }
+}
  .home1 {
     position: absolute;
     top: 9px;
@@ -2113,6 +2312,12 @@
     display: inline-block;
     width: 45px;
  }
+ @media (max-width: 767px) {
+   .home1 {
+       left: -10px;
+       font-size: 95%;
+   }
+}
  .about1 {
     position: absolute;
     top: 9px;
@@ -2123,6 +2328,12 @@
     display: inline-block;
     width: 55px;
  }
+ @media (max-width: 767px) {
+   .about1 {
+       left: 60px;
+       font-size: 95%;
+   }
+}
  .privacy-policy1 {
     position: absolute;
     top: 9px;
@@ -2133,6 +2344,12 @@
     display: inline-block;
     width: 131px;
  }
+ @media (max-width: 767px) {
+   .privacy-policy1 {
+       left: 125px;
+       font-size: 95%;
+   }
+}
  .untitled-design-5-1 {
     position: absolute;
     top: -6px;

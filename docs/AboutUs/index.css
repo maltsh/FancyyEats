@@ -465,7 +465,7 @@
    width: 92.76%;
    top: 60.67px;
    left: 0%;
-   font-size: 13px;
+   font-size: 95%;
    letter-spacing: 0.15px;
    line-height: 28.5px;
    display: inline-block;
@@ -510,7 +510,7 @@
    width: 96.27%;
    top: -27.7px;
    left: 0%;
-   font-size: var(--font-size-3xs);
+   font-size: 90%;
    letter-spacing: 0.15px;
    line-height: 28.5px;
    display: inline-block;
