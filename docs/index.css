@@ -57,7 +57,7 @@
  }
  @media (max-width: 767px) {
    .the-best-recipes {
-       font-size: 95%;
+       font-size: 60%;
        left: -175px;
    }
 }
@@ -727,6 +727,11 @@ width: 340px;}
     height: 442px;
     object-fit: cover;
  }
+ @media (max-width: 767px) {
+   .image-icon3 {
+   height: 25%;
+   width: 98%;  }
+}
  .spaghetti-squash {
     position: absolute;
     top: 0px;
@@ -1755,7 +1760,9 @@ width: 340px;}
  }
  @media (max-width: 767px) {
    .untitled-design-6-1 {
-  left: -90px }
+  width: 100%;
+   height: 80%;
+   left: -48px; }
 }
  .frame77 {
     position: absolute;
